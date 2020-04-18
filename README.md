@@ -1,5 +1,4 @@
 # Curso-Python-do-Zero
-Exercicios do curso Python do Zero 
 
 https://programadorsagaz.com.br/python-do-zero/
 
