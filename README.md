@@ -4,6 +4,7 @@ Exercicios do curso Python do Zero
 https://programadorsagaz.com.br/python-do-zero/
 
 Qual é o conteúdo?
+
 ​​Fundamentos de Programação com Python​: um módulo fundamental para quem nunca programou ou está dando os primeiros passos na programação. Você vai finalmente entender o que é e o que não é programação e vai criar seus primeiros programas imediatamente.
 
 ​Lógica e Comandos Condicionais​: ​​aqui você aprenderá ​o que é a famosa "lógica de programação" ​​​e como ela aparece no Python. Além disso, você aprenderá sobre comandos condicionais e começará a fazer seus programas pensarem.
